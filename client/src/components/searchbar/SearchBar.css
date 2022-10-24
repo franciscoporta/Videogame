@@ -1,0 +1,32 @@
+.divContainter{
+    display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 30px;
+}
+
+select {
+    cursor: pointer;
+    font-family: 'Press Start 2P', cursive;
+    margin: 0 20px 10px 20px;
+    padding: 10px;
+    border: 2px solid #111;
+    color: #111;
+    box-shadow: 3px 3px #111;
+    transition: 0.3s;
+}
+
+
+.button{
+    height: 45px;
+    margin: 0 20px 10px 20px;
+    padding: 5px;
+    box-shadow: 3px 3px #111;
+    display: flex;
+    align-items: center;
+}
+
+.button:hover{
+    background: #111;
+	color: #ddd;
+}

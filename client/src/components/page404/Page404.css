@@ -1,0 +1,20 @@
+.button404{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.9rem;
+    color: #FAFAFA;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 20px 20px;
+    border: 2px solid #111;
+    background: #572e7e;
+    box-shadow: 3px 3px #111;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin-right: 15px;
+    line-height: 1.2rem;
+}
+.button404:hover{
+    background-color: #fedeff;
+	color: rgba(9, 56, 121, 1);
+	transform: translateY(-4px);
+}
